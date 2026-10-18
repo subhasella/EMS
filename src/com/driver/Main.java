@@ -51,7 +51,6 @@ public static void main(String[] args) {
 		int ph = sc.nextInt();
 		System.out.println(m.insert(num,name,ph));
 		break;
-		//test
 	}
 	case 4:{
 		System.out.println("Enter the id");
